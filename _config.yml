@@ -82,14 +82,14 @@ analytics:
 author:
   name             : "Zeyu Wang"
   avatar           : "profile.png"
-  bio              : "3rd year computer science Ph.D. student at Fudan University and Université Paris Cité"
+  bio              : "Ph.D. candidate at Fudan University and Université Paris Cité"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&user=XXGhABIAAAAJ"
   email            : "zeyuwang21@m.fudan.edu.cn"
   linkedin         : "www.linkedin.com/in/zeyu-wang-702760247"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Zeyu-Wang-4"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "www.linkedin.com/in/zeyu-wang-702760247"
   orcid            :
   pinterest        :
   soundcloud       :
