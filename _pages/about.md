@@ -30,10 +30,14 @@ My research interest lies in the management and analyses of high-dimensional dat
 5) Broad applications of high-dimensional indexes, e.g., Retrieval-Augmented Generation (RAG)
 
 Welcome to contact me via [zeyuwang21@m.fudan.edu.cn] if you are interested me and my research works.
+My address is 2205 Songhu Road, No.2 Interdisciplinary Research Building, E4009, Shanghai, China
 
 Welcome to see my [Chinese tech blog](https://www.jianshu.com/u/d015902c6d09) for the summarizations and comments on recent papers and advanced techniques! 
 
 My MBTI is INTJ.
+
+
+
 
 # News
 
