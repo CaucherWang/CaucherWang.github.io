@@ -38,7 +38,7 @@ My MBTI is INTJ.
 # News
 
 - *<u>2023.9</u>* Thrilled to share my survey about the comparison between time series and vector similarity search in IEEE Data Engineering Bulletin Journal, Special Issue in Sep. 2023! [paper](http://sites.computer.org/debull/A23sept/p3.pdf)
-- <u>*2023.6*</u> Very exited to participate in SIGMOD'23 at Seattle, USA! A cool experience to explore the great city with the new friends in the database community! 
+- *<u>2023.6</u>* Very exited to participate in SIGMOD'23 at Seattle, USA! A cool experience to explore the great city with the new friends in the database community! 
 
 # Publications
 
@@ -66,9 +66,9 @@ My MBTI is INTJ.
 
 ## Interns
 
-- *Research Engineer* at [Zilliz](https://zilliz.com/) <u>2022.8 - 2023.1</u>
+- *Research Engineer* at [Zilliz](https://zilliz.com/) (<u>2022.8 - 2023.1</u>)
   - Working at the research group led by Dr. [Xiaomeng Yi](https://scholar.google.com/citations?user=j9GZDm8AAAAJ&hl=en) for learned graph-based ANN indexes and graph indexes in streaming 
-- *BigData Engineer* at [Construct](https://www.litatom.com/#/) <u>2020.1 - 2021.1</u>
+- *BigData Engineer* at [Construct](https://www.litatom.com/#/) (<u>2020.1 - 2021.1</u>)
   - Leading the data team to build the big data platform to empower intelligent analyses, recommendation, and social matches.
 
 # Awards

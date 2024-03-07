@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zeyu Wang - Fudan Univ. & UPC"
+title                    : "Zeyu Wang's homepage'"
 title_separator          : "-"
 name                     : &name "ZeyuWang"
 description              : &description "personal description"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zeyu Wang"
+  name             : "Zeyu Wang (王泽宇)"
   avatar           : "profile.jpg"
-  bio              : "Fudan University \\ Université Paris Cité"
+  bio              : "Fudan University\nUniversité Paris Cité\n Address: 2205 Songhu Road, No.2 Interdisciplinary Research Building, E4009, Shanghai, China"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
@@ -110,7 +110,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  # twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
