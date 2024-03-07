@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# Bio
+<!-- # Bio -->
 
 I am now a third-year PhD candidate at School of Computer Science, Fudan University.
 My Ph.D. thesis is joint-supervised by [Prof. Peng Wang](https://pengwang511.github.io/project.html) at Fudan Univ. and [Prof. Themis Palpanas](https://helios2.mi.parisdescartes.fr/~themisp/) at Université Paris Cité.
