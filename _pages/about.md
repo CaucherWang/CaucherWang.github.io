@@ -12,8 +12,8 @@ redirect_from:
 
 I am now a third-year PhD candidate at School of Computer Science, Fudan University.
 My Ph.D. thesis is joint-supervised by [Prof. Peng Wang](https://pengwang511.github.io/project.html) at Fudan Univ. and [Prof. Themis Palpanas](https://helios2.mi.parisdescartes.fr/~themisp/) at Université Paris Cité.
-I enjor working with labmates at [DSM Group](https://github.com/DSM-fudan) at Fudan Univ. and [diNo](https://dino.mi.parisdescartes.fr/) at UPC at the same time.
-Before that, I got my bachelor’s degree in computer science from Fudan University.
+I enjor working at [DSM Group](https://github.com/DSM-fudan) of Fudan Univ. and [diNo Research group](https://dino.mi.parisdescartes.fr/) of UPC at the same time.
+Before that, I got my bachelor’s degree in computer science from Fudan University in 2021.
 
 I have published papers in top conferences and journals of database and data mining, including SIGMOD, VLDB, VLDB Journal and TKDE. I'm hornoed to be invited to publish a surver paper in the prestigious IEEE Data Engineering Bulletin, special issue on [High-Dimensional Similarity Search: from Time Series Management Systems to Vector Databases](http://sites.computer.org/debull/A23sept/issue1.htm).
 
@@ -30,7 +30,8 @@ My research interest lies in the management and analyses of high-dimensional dat
 5) Broad applications of high-dimensional indexes, e.g., Retrieval-Augmented Generation (RAG)
 
 Welcome to contact me via [zeyuwang21@m.fudan.edu.cn] if you are interested me and my research works.
-My address is 2205 Songhu Road, No.2 Interdisciplinary Research Building, E4009, Shanghai, China
+
+Office address: 2205 Songhu Road, No.2 Interdisciplinary Research Building, E4009, Shanghai, China
 
 Welcome to see my [Chinese tech blog](https://www.jianshu.com/u/d015902c6d09) for the summarizations and comments on recent papers and advanced techniques! 
 
@@ -45,6 +46,8 @@ My MBTI is INTJ.
 - *<u>2023.6</u>* Very exited to participate in SIGMOD'23 at Seattle, USA! A cool experience to explore the great city with the new friends in the database community! 
 
 # Publications
+
+- **Zeyu Wang**, Qitong Wang, Xiaoxing Cheng, Peng Wang, Themis Palpanas, and Wei Wang. *Query Hardness Measurement and Unbiased Workload Generation for Graph-Based ANN Index Evaluation*. <u>PVLDB</u> (under revision)
 
 - **Zeyu Wang**, Qitong Wang, Peng Wang, Themis Palpanas, and Wei Wang. *DumpyOS: A Data-Adaptive Multi-ary Index for Scalable Data Series Similarity Search*. <u>VLDB Journal</u> (under revision)
 
