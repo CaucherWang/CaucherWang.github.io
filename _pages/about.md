@@ -37,7 +37,7 @@ Welcome to see my [Chinese tech blog](https://www.jianshu.com/u/d015902c6d09) fo
 
 My MBTI is INTJ.
 
-
+---
 
 
 # News
@@ -45,9 +45,13 @@ My MBTI is INTJ.
 - *<u>2023.9</u>* Thrilled to share my survey about the comparison between time series and vector similarity search in IEEE Data Engineering Bulletin Journal, Special Issue in Sep. 2023! [paper](http://sites.computer.org/debull/A23sept/p3.pdf)
 - *<u>2023.6</u>* Very exited to participate in SIGMOD'23 at Seattle, USA! A cool experience to explore the great city with the new friends in the database community! 
 
+---
+
 # Publications
 
 - **Zeyu Wang**, Qitong Wang, Xiaoxing Cheng, Peng Wang, Themis Palpanas, and Wei Wang. *Query Hardness Measurement and Unbiased Workload Generation for Graph-Based ANN Index Evaluation*. <u>PVLDB</u> (under revision)
+
+---
 
 - **Zeyu Wang**, Qitong Wang, Peng Wang, Themis Palpanas, and Wei Wang. *DumpyOS: A Data-Adaptive Multi-ary Index for Scalable Data Series Similarity Search*. <u>VLDB Journal</u> (under revision)
 
@@ -67,12 +71,14 @@ My MBTI is INTJ.
 
 - Hanbo Zhang, Peng Wang, Zicheng Fang, **Zeyu Wang**, and Wei Wang, *ELIS++: a shapelet learning approach for accurate and efficient time series classification*. World Wide Web (<u>WWWJ</u>) 24, 511–539 March 2021. ([website](https://link.springer.com/article/10.1007/s11280-020-00856-1))
 
+---
 
 # Activities
 
 ## Talks
 
 - *A Revisit and the New Progess of Graph-based High-dimensional Vector Search*. In DataWhale, online, May 2023. [video](https://www.bilibili.com/video/BV1xk4y1i7Um/?share_source=copy_web&vd_source=886f9cce80c2c25431ff33e1d092d984) (in Mandarin)
+
 
 ## Teaching Assistants
 
@@ -85,6 +91,8 @@ My MBTI is INTJ.
   - Working at the research group led by Dr. [Xiaomeng Yi](https://scholar.google.com/citations?user=j9GZDm8AAAAJ&hl=en) for learned graph-based ANN indexes and graph indexes in streaming 
 - *BigData Engineer* at [Construct Tech](https://www.litatom.com/#/) (<u>2020.1 - 2021.1</u>)
   - Leading the data team to build the big data platform to empower intelligent analyses, recommendation, and social matches.
+
+---
 
 # Awards
 
