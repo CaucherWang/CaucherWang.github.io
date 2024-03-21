@@ -33,7 +33,9 @@ Welcome to contact me via [zeyuwang21@m.fudan.edu.cn] if you are interested me a
 
 Office address: 2205 Songhu Road, No.2 Interdisciplinary Research Building, E4009, Shanghai, China
 
-Welcome to see my [Chinese tech blog](https://www.jianshu.com/u/d015902c6d09) for the summarizations and comments on recent papers and advanced techniques! 
+Welcome to subscribe my [Medium](https://medium.com/@caucherw) to share and discuss the exciting ideas in data management!
+
+My [Chinese tech blog](https://www.jianshu.com/u/d015902c6d09) records my comments on academic papers and advanced techniques BEFORE 2024.
 
 My MBTI is INTJ.
 
@@ -42,6 +44,7 @@ My MBTI is INTJ.
 
 # News
 
+- *<u>2024.3</u>* Open my [Medium Channel](https://medium.com/@caucherw). I'm sharing my comments and thoughts on the frontier of data management here. Careful read, deep thinking and active discussion (positive or negative) show respect for researchers.
 - *<u>2023.9</u>* Thrilled to share my survey about the comparison between time series and vector similarity search in IEEE Data Engineering Bulletin Journal, Special Issue in Sep. 2023! [paper](http://sites.computer.org/debull/A23sept/p3.pdf)
 - *<u>2023.6</u>* Very exited to participate in SIGMOD'23 at Seattle, USA! A cool experience to explore the great city with the new friends in the database community! 
 
@@ -57,15 +60,19 @@ My MBTI is INTJ.
 
 ---
 
+- **Zeyu Wang**, Haoran Xiong, Zhenying He, Peng Wang, and Wei Wang. *Distance Comparison Operators for Approximate Nearest Neighbor Search: Exploration and Benchmark*. <u>arXiv</u> preprint arXiv:2403.13491 (2024). ([PDF](https://arxiv.org/pdf/2403.13491.pdf), [code](https://github.com/CaucherWang/Fudist))
+
+---
+
 - **Zeyu Wang**, Zhenying He, Peng Wang, Yang Wang, and Wei Wang. *Static and Streaming Discovery of Maximal Linear Representation Between Time Series*. IEEE Transactions on Knowledge and Data Engineering (<u>TKDE</u>), vol. 36, no. 1, pp. 401-415, Jan. 2024. ([website](https://ieeexplore.ieee.org/abstract/document/10155259), [code](https://github.com/DSM-fudan/LR-miner))
 
 ---
 
-- **Zeyu Wang**, Qitong Wang, Peng Wang, Themis Palpanas, and Wei Wang. *Dumpy: A Compact and Adaptive Index for Large Data Series Collections*. Proceedings of the ACM Management of Data (PACMMOD) Journal 1(1), 2023, presented at ACM SIG International conference on Management of Data / Principles of Database Systems (<u>SIGMOD</u>/PODS), Seattle, WA, USA, June 2023. ([PDF](https://helios2.mi.parisdescartes.fr/~themisp/publications/sigmod23-dumpy.pdf), [slides](https://helios2.mi.parisdescartes.fr/~themisp/publications/sigmod23-dumpy-slides.pdf), [video](https://files.atypon.com/acm/99f6febc21ad6c5a979f504caf188d9a), [code](https://github.com/DSM-fudan/Dumpy))
+- **Zeyu Wang**, Peng Wang, Themis Palpanas, and Wei Wang. *Graph- and Tree-based Indexes for High-dimensional Vector Similarity Search: Analyses, Comparisons, and Future Directions*. <u>IEEE Data Engineering Bulletin</u> 47(3), Sep. 2023. ([PDF](http://sites.computer.org/debull/A23sept/p3.pdf))
 
 ---
 
-- **Zeyu Wang**, Peng Wang, Themis Palpanas, and Wei Wang. *Graph- and Tree-based Indexes for High-dimensional Vector Similarity Search: Analyses, Comparisons, and Future Directions*. <u>IEEE Data Engineering Bulletin</u> 47(3), Sep. 2023. ([PDF](http://sites.computer.org/debull/A23sept/p3.pdf))
+- **Zeyu Wang**, Qitong Wang, Peng Wang, Themis Palpanas, and Wei Wang. *Dumpy: A Compact and Adaptive Index for Large Data Series Collections*. Proceedings of the ACM Management of Data (PACMMOD) Journal 1(1), 2023, presented at ACM SIG International conference on Management of Data / Principles of Database Systems (<u>SIGMOD</u>/PODS), Seattle, WA, USA, June 2023. ([PDF](https://helios2.mi.parisdescartes.fr/~themisp/publications/sigmod23-dumpy.pdf), [slides](https://helios2.mi.parisdescartes.fr/~themisp/publications/sigmod23-dumpy-slides.pdf), [video](https://files.atypon.com/acm/99f6febc21ad6c5a979f504caf188d9a), [code](https://github.com/DSM-fudan/Dumpy))
 
 ---
 
