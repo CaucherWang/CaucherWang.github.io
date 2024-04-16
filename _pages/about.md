@@ -24,13 +24,16 @@ My research interest lies in the management and analyses of high-dimensional dat
 
 2) Data series/Time series similarity search and analyses
 
-3) Management of high-dimensional data (e.g., storage, compression)
+3) Other important issues on high-dimensional data management (e.g., storage, compression)
 
 4) High-dimensional indexes for AI applications (e.g., Retrieval-Augmented Generation (RAG))
 
 Welcome to contact me via [zeyuwang21@m.fudan.edu.cn] if you are interested in me and my research works.
 
-Office address: 2205 Songhu Road, No.2 Interdisciplinary Research Building, E4009, Shanghai, China
+Office address: 
+<address>
+  2205 Songhu Road, No.2 Interdisciplinary Research Building, E4009 <br /> Shanghai <br /> China
+</address>
 
 Welcome to subscribe my [Medium](https://medium.com/@caucherw) to share and discuss the exciting ideas in data management!
 
@@ -43,7 +46,7 @@ My MBTI is INTJ.
 
 # News
 
-- *<u>2024.4</u>* :fireworks::fireworks::fireworks: Our new work CIVET, a state-of-the-art time series subsequence matching index, gets accepted in VLDB 2024!
+- *<u>2024.4</u>* 🎉🎉🎉 Our new work CIVET, a state-of-the-art time series subsequence matching index, gets accepted in VLDB 2024!
 - *<u>2024.3</u>* Open my [Medium Channel](https://medium.com/@caucherw). I'm sharing my comments and thoughts on the frontier of data management here. Careful read, deep thinking and active discussion (positive or negative) show respect for researchers.
 - *<u>2023.9</u>* Thrilled to share my survey about the comparison between time series and vector similarity search in IEEE Data Engineering Bulletin Journal, Special Issue in Sep. 2023! [paper](http://sites.computer.org/debull/A23sept/p3.pdf)
 - *<u>2023.6</u>* Very exited to participate in SIGMOD'23 at Seattle, USA! A cool experience to explore the great city with the new friends in the database community! 
