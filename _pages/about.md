@@ -72,9 +72,6 @@ My MBTI is INTJ.
 
 - **Zeyu Wang**, Haoran Xiong, Zhenying He, Peng Wang, and Wei Wang. *Distance Comparison Operators for Approximate Nearest Neighbor Search: Exploration and Benchmark*. <u>arXiv</u> preprint arXiv:2403.13491 Mar. 2024. ([PDF](https://arxiv.org/pdf/2403.13491.pdf), [code](https://github.com/CaucherWang/Fudist))
 
-<div align="center">
-<img src='/images/evo-graph.png' alt='drawing' width='500'>
-</div>
 ---
 
 - **Zeyu Wang**, Zhenying He, Peng Wang, Yang Wang, and Wei Wang. *Static and Streaming Discovery of Maximal Linear Representation Between Time Series*. IEEE Transactions on Knowledge and Data Engineering (<u>TKDE</u>), vol. 36, no. 1, pp. 401-415, Jan. 2024. ([website](https://ieeexplore.ieee.org/abstract/document/10155259), [code](https://github.com/DSM-fudan/LR-miner))
@@ -82,6 +79,10 @@ My MBTI is INTJ.
 ---
 
 - **Zeyu Wang**, Peng Wang, Themis Palpanas, and Wei Wang. *Graph- and Tree-based Indexes for High-dimensional Vector Similarity Search: Analyses, Comparisons, and Future Directions*. <u>IEEE Data Engineering Bulletin</u> 47(3), Sep. 2023. ([PDF](http://sites.computer.org/debull/A23sept/p3.pdf))
+
+<!-- <div align="center">
+<img src='/images/evo-graph.png' alt='drawing' width='500'>
+</div> -->
 
 ---
 
