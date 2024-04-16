@@ -15,21 +15,20 @@ My Ph.D. thesis is joint-supervised by [Prof. Peng Wang](https://pengwang511.git
 I enjor working at [DSM Group](https://github.com/DSM-fudan) of Fudan Univ. and [diNo Research group](https://dino.mi.parisdescartes.fr/) of UPC at the same time.
 Before that, I got my bachelor’s degree in computer science from Fudan University in 2021.
 
-I have published papers in top conferences and journals of database and data mining, including SIGMOD, VLDB, VLDB Journal and TKDE. I'm hornoed to be invited to publish a surver paper in the prestigious IEEE Data Engineering Bulletin, special issue on [High-Dimensional Similarity Search: from Time Series Management Systems to Vector Databases](http://sites.computer.org/debull/A23sept/issue1.htm).
+I have published papers in top conferences and journals of database and data mining, including SIGMOD, VLDB, VLDB Journal and TKDE. I also serve as the reviewer of peer-reviewed journals including TKDE. 
+I'm hornoed to be invited to publish a survey paper in the prestigious IEEE Data Engineering Bulletin, special issue on [High-Dimensional Similarity Search: from Time Series Management Systems to Vector Databases](http://sites.computer.org/debull/A23sept/issue1.htm).
 
 My research interest lies in the management and analyses of high-dimensional data, including:
 
 1) High-dimensional vector indexing for approximate nearest neighnor search (ANNS)
 
-2) Data series similarity search
+2) Data series/Time series similarity search and analyses
 
-3) Intrinsic distribution and correlation mining on high-dimensional data
+3) Management of high-dimensional data (e.g., storage, compression)
 
-4) Compression on high-dimensional data
+4) High-dimensional indexes for AI applications (e.g., Retrieval-Augmented Generation (RAG))
 
-5) Broad applications of high-dimensional indexes, e.g., Retrieval-Augmented Generation (RAG)
-
-Welcome to contact me via [zeyuwang21@m.fudan.edu.cn] if you are interested me and my research works.
+Welcome to contact me via [zeyuwang21@m.fudan.edu.cn] if you are interested in me and my research works.
 
 Office address: 2205 Songhu Road, No.2 Interdisciplinary Research Building, E4009, Shanghai, China
 
@@ -44,6 +43,7 @@ My MBTI is INTJ.
 
 # News
 
+- *<u>2024.4</u>* :fireworks::fireworks::fireworks: Our new work CIVET, a state-of-the-art time series subsequence matching index, gets accepted in VLDB 2024!
 - *<u>2024.3</u>* Open my [Medium Channel](https://medium.com/@caucherw). I'm sharing my comments and thoughts on the frontier of data management here. Careful read, deep thinking and active discussion (positive or negative) show respect for researchers.
 - *<u>2023.9</u>* Thrilled to share my survey about the comparison between time series and vector similarity search in IEEE Data Engineering Bulletin Journal, Special Issue in Sep. 2023! [paper](http://sites.computer.org/debull/A23sept/p3.pdf)
 - *<u>2023.6</u>* Very exited to participate in SIGMOD'23 at Seattle, USA! A cool experience to explore the great city with the new friends in the database community! 
@@ -57,6 +57,10 @@ My MBTI is INTJ.
 ---
 
 - **Zeyu Wang**, Qitong Wang, Peng Wang, Themis Palpanas, and Wei Wang. *DumpyOS: A Data-Adaptive Multi-ary Index for Scalable Data Series Similarity Search*. <u>VLDB Journal</u> (under revision)
+
+---
+
+- Haoran Xiong, Hang Zhang, **Zeyu Wang**, Zhenying He, Peng Wang, and X. Sean Wang. *CIVET: Exploring Compact Index for Variable-Length Subsequence Matching on Time Series*. <u>PVLDB</u> 2024 (Accepted) ([code](https://github.com/hrxiong/CIVET))
 
 ---
 
