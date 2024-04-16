@@ -65,8 +65,9 @@ My MBTI is INTJ.
 
 ---
 
+<img align="right" src="/images/500x300.png"/>
 - Haoran Xiong, Hang Zhang, **Zeyu Wang**, Zhenying He, Peng Wang, and X. Sean Wang. *CIVET: Exploring Compact Index for Variable-Length Subsequence Matching on Time Series*. <u>PVLDB</u> 2024 (Accepted) ([code](https://github.com/hrxiong/CIVET)) 
-<img align="right" src="https://img-blog.csdnimg.cn/6ee7cacc267b4ec8b570b2ab9c0a0ce1.png"/>
+
 
 ---
 
