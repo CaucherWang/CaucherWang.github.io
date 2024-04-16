@@ -35,7 +35,9 @@ Office address:
   2205 Songhu Road, No.2 Interdisciplinary Research Building, E4009 <br /> Shanghai <br /> China
 </address>
 
-Welcome to subscribe my [Medium](https://medium.com/@caucherw) to share and discuss the exciting ideas in data management!
+---
+
+Welcome to subscribe my [Medium](https://medium.com/@caucherw) to discuss the exciting ideas in data management!
 
 My [Chinese tech blog](https://www.jianshu.com/u/d015902c6d09) records my comments on academic papers and advanced techniques BEFORE 2024.
 
@@ -63,11 +65,12 @@ My MBTI is INTJ.
 
 ---
 
-- Haoran Xiong, Hang Zhang, **Zeyu Wang**, Zhenying He, Peng Wang, and X. Sean Wang. *CIVET: Exploring Compact Index for Variable-Length Subsequence Matching on Time Series*. <u>PVLDB</u> 2024 (Accepted) ([code](https://github.com/hrxiong/CIVET))
+- Haoran Xiong, Hang Zhang, **Zeyu Wang**, Zhenying He, Peng Wang, and X. Sean Wang. *CIVET: Exploring Compact Index for Variable-Length Subsequence Matching on Time Series*. <u>PVLDB</u> 2024 (Accepted) ([code](https://github.com/hrxiong/CIVET)) 
+<img align="right" src="https://img-blog.csdnimg.cn/6ee7cacc267b4ec8b570b2ab9c0a0ce1.png"/>
 
 ---
 
-- **Zeyu Wang**, Haoran Xiong, Zhenying He, Peng Wang, and Wei Wang. *Distance Comparison Operators for Approximate Nearest Neighbor Search: Exploration and Benchmark*. <u>arXiv</u> preprint arXiv:2403.13491 (2024). ([PDF](https://arxiv.org/pdf/2403.13491.pdf), [code](https://github.com/CaucherWang/Fudist))
+- **Zeyu Wang**, Haoran Xiong, Zhenying He, Peng Wang, and Wei Wang. *Distance Comparison Operators for Approximate Nearest Neighbor Search: Exploration and Benchmark*. <u>arXiv</u> preprint arXiv:2403.13491 Mar. 2024. ([PDF](https://arxiv.org/pdf/2403.13491.pdf), [code](https://github.com/CaucherWang/Fudist))
 
 ---
 
