@@ -12,7 +12,7 @@ redirect_from:
 
 I am now a third-year PhD candidate at School of Computer Science, Fudan University.
 My Ph.D. thesis is jointly-supervised by [Prof. Peng Wang](https://pengwang511.github.io/project.html) at Fudan Univ. and [Prof. Themis Palpanas](https://helios2.mi.parisdescartes.fr/~themisp/) at Université Paris Cité.
-I enjoy working at [DSM Group](https://github.com/DSM-fudan) of Fudan Univ. and [diNo Research group](https://dino.mi.parisdescartes.fr/) of UPC at the same time.
+I enjoy working with labmates of [DSM Group](https://github.com/DSM-fudan) and [diNo Research group](https://dino.mi.parisdescartes.fr/) at the same time.
 Before that, I got my bachelor’s degree in computer science from Fudan University in 2021.
 
 I have published papers in top conferences and journals of database and data mining, including SIGMOD, VLDB, VLDB Journal and TKDE. I also serve as the reviewer of peer-reviewed journals including TKDE. 
