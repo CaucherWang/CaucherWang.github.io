@@ -16,7 +16,7 @@ I enjoy working with labmates of [DSM Group](https://github.com/DSM-fudan) and [
 Before that, I got my bachelor’s degree in computer science from Fudan University in 2021.
 
 I have published papers in top conferences and journals of database and data mining, including SIGMOD, VLDB, VLDB Journal and TKDE. I also serve as the reviewer of peer-reviewed journals including TKDE. 
-I'm hornoed to be invited to publish a survey paper in the prestigious IEEE Data Engineering Bulletin, special issue on [High-Dimensional Similarity Search: from Time Series Management Systems to Vector Databases](http://sites.computer.org/debull/A23sept/issue1.htm).
+
 
 My research interest lies in the management and analyses of high-dimensional data, including:
 
@@ -57,7 +57,7 @@ My MBTI is INTJ.
 
 # Publications
 
-- **Zeyu Wang**, Qitong Wang, Xiaoxing Cheng, Peng Wang, Themis Palpanas, and Wei Wang. *Query Hardness Measurement and Unbiased Workload Generation for Graph-Based ANN Index Evaluation*. <u>PVLDB</u> (under revision)
+- **Zeyu Wang**, Qitong Wang, Xiaoxing Cheng, Peng Wang, Themis Palpanas, and Wei Wang. *$Steiner$-Hardness: A Query Hardness Measure for Graph-Based ANN Indexes*. <u>PVLDB</u> (under revision)
 
 ---
 
@@ -98,8 +98,7 @@ My MBTI is INTJ.
 
 ## Talks
 
-- *A Revisit and the New Progess of Graph-based High-dimensional Vector Search*. In DataWhale, online, May 2023. [video](https://www.bilibili.com/video/BV1xk4y1i7Um/?share_source=copy_web&vd_source=886f9cce80c2c25431ff33e1d092d984) (in Mandarin)
-
+- *A Revisit and the New Progress of Graph-based High-dimensional Vector Search*. In DataWhale, online, May 2023. [video](https://www.bilibili.com/video/BV1xk4y1i7Um/?share_source=copy_web&vd_source=886f9cce80c2c25431ff33e1d092d984) (in Mandarin)
 
 ## Teaching Assistants
 
