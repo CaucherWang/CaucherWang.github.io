@@ -57,7 +57,7 @@ My MBTI is INTJ.
 
 # Publications
 
-- **Zeyu Wang**, Qitong Wang, Xiaoxing Cheng, Peng Wang, Themis Palpanas, and Wei Wang. *$Steiner$-Hardness: A Query Hardness Measure for Graph-Based ANN Indexes*. <u>PVLDB</u> (under revision)
+- **Zeyu Wang**, Qitong Wang, Xiaoxing Cheng, Peng Wang, Themis Palpanas, and Wei Wang. *$Steiner$-Hardness: A Query Hardness Measure for Graph-Based ANN Indexes*. <u>PVLDB</u> (under shepherding)
 
 ---
 
@@ -107,6 +107,8 @@ My MBTI is INTJ.
 
 ## Interns
 
+- *Researcher* at [Ant Group](https://www.antgroup.com/) (<u>2024.7 - now</u>)
+  - Working at Oceanbase Research Lab led by [Dr. Quanqing Xu](https://scholar.google.com.hk/citations?hl=en&user=MZbfc1IAAAAJ) for integrated OLAP and vector database
 - *Research Engineer* at [Zilliz](https://zilliz.com/) (<u>2022.8 - 2023.1</u>)
   - Working at the research group led by Dr. [Xiaomeng Yi](https://scholar.google.com/citations?user=j9GZDm8AAAAJ&hl=en) for learned graph-based ANN indexes and graph indexes in streaming 
 - *BigData Engineer* at [Construct Tech](https://www.litatom.com/#/) (<u>2020.1 - 2021.1</u>)
