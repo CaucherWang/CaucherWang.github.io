@@ -18,42 +18,37 @@ Before that, I got my bachelor’s degree in computer science from Fudan Univers
 I have published papers in top conferences and journals of database and data mining, including SIGMOD, VLDB, VLDB Journal and TKDE. I also serve as the reviewer of peer-reviewed journals including TKDE. 
 
 
-My research interest lies in the management and analyses of high-dimensional data, including:
+My research interest lies in the management and analyses of massive complex data, including:
 
 1) High-dimensional vector indexing for approximate nearest neighnor search (ANNS)
 
-2) Data series/Time series similarity search and analyses
+2) Data series / time series similarity search and analyses
 
 3) Other important issues on high-dimensional data management (e.g., storage, compression)
 
-4) High-dimensional indexes for AI applications (e.g., Retrieval-Augmented Generation (RAG))
+4) DB + AI: RAG, learned index, learned query optimizer, learned index tuning, etc.
 
 Welcome to contact me via [zeyuwang21@m.fudan.edu.cn] if you are interested in me and my research works.
 
-Office address: 
-<address>
-  2205 Songhu Road, No.2 Interdisciplinary Research Building, E4009 <br /> Shanghai <br /> China
-</address>
-
----
-
 Welcome to subscribe my [Medium](https://medium.com/@caucherw) to discuss the exciting ideas in data management!
 
-My [Chinese tech blog](https://www.jianshu.com/u/d015902c6d09) records my comments on academic papers and advanced techniques BEFORE 2024.
+My [Chinese tech blog](https://www.jianshu.com/u/d015902c6d09) records my detailed comments on academic papers and advanced techniques.
 
 My MBTI is INTJ.
 
 ---
 
 
+
 # News
 
+- *<u>2024.8</u>* 🎉🎉🎉 Our new work DumpyOS, a state-of-the-art parallel time series index on NVMe SSD, gets accepted in VLDB Journal!
 - *<u>2024.4</u>* 🎉🎉🎉 Our new work CIVET, a state-of-the-art time series subsequence matching index, gets accepted in VLDB 2024!
 - *<u>2024.3</u>* Open my [Medium Channel](https://medium.com/@caucherw). I'm sharing my comments and thoughts on the frontier of data management here. Careful read, deep thinking and active discussion (positive or negative) show respect for researchers.
-- *<u>2023.9</u>* Thrilled to share my survey about the comparison between time series and vector similarity search in IEEE Data Engineering Bulletin Journal, Special Issue in Sep. 2023! [paper](http://sites.computer.org/debull/A23sept/p3.pdf)
-- *<u>2023.6</u>* Very exited to participate in SIGMOD'23 at Seattle, USA! A cool experience to explore the great city with the new friends in the database community! 
 
 ---
+
+
 
 # Publications
 
@@ -61,11 +56,11 @@ My MBTI is INTJ.
 
 ---
 
-- **Zeyu Wang**, Qitong Wang, Peng Wang, Themis Palpanas, and Wei Wang. *DumpyOS: A Data-Adaptive Multi-ary Index for Scalable Data Series Similarity Search*. <u>VLDB Journal</u> (under revision)
+- **Zeyu Wang**, Qitong Wang, Peng Wang, Themis Palpanas, and Wei Wang. *DumpyOS: A Data-Adaptive Multi-ary Index for Scalable Data Series Similarity Search*. <u>VLDB Journal</u> (Accepted) ([code](https://github.com/DSM-fudan/DumpyOS))
 
 ---
 
-- Haoran Xiong, Hang Zhang, **Zeyu Wang**, Zhenying He, Peng Wang, and X. Sean Wang. *CIVET: Exploring Compact Index for Variable-Length Subsequence Matching on Time Series*. <u>PVLDB</u> 2024 (Accepted) ([code](https://github.com/hrxiong/CIVET)) 
+- Haoran Xiong, Hang Zhang, **Zeyu Wang**, Zhenying He, Peng Wang, and X. Sean Wang. *CIVET: Exploring Compact Index for Variable-Length Subsequence Matching on Time Series*. <u>PVLDB</u>, 17(9): 2123-2135, 2024. ( [PDF](https://www.vldb.org/pvldb/vol17/p2123-he.pdf), [code](https://github.com/hrxiong/CIVET)) 
 
 
 ---
@@ -94,27 +89,41 @@ My MBTI is INTJ.
 
 ---
 
+
+
 # Activities
+
+
 
 ## Talks
 
-- *A Revisit and the New Progress of Graph-based High-dimensional Vector Search*. In DataWhale, online, May 2023. [video](https://www.bilibili.com/video/BV1xk4y1i7Um/?share_source=copy_web&vd_source=886f9cce80c2c25431ff33e1d092d984) (in Mandarin)
+- *Efficient and Reliable Automatic High-dimensional Vector Indexes.* In [Ant Group](https://www.antgroup.com/), July 2024.
+- *A Revisit and the New Progress of Graph-based High-dimensional Vector Search*. In [DataWhale](https://github.com/datawhalechina), online, May 2023. [video](https://www.bilibili.com/video/BV1xk4y1i7Um/?share_source=copy_web&vd_source=886f9cce80c2c25431ff33e1d092d984) (in Mandarin)
+- *Similarity Search: From Time Series to High-Dimensional Vectors*. In [Zilliz](https://zilliz.com/), Aug 2022. 
+
+
 
 ## Teaching Assistants
 
 - *Big Data Mining*, Spring 2022, with Prof. Peng Wang
 - *Database System Implementation*, Fall 2022, with Prof. Peng Wang and Prof. Wei Wang
 
+
+
 ## Interns
 
-- *Researcher* at [Ant Group](https://www.antgroup.com/) (<u>2024.7 - now</u>)
-  - Working at Oceanbase Research Lab led by [Dr. Quanqing Xu](https://scholar.google.com.hk/citations?hl=en&user=MZbfc1IAAAAJ) for integrated OLAP and vector database
+- *Research and Development* at [Baidu](https://www.baidu.com/) (<u>2024.7 - Now</u>)
+  - Working on Baidu Search Engine, for trillion-scale web data similarity search.
+- *Researcher* at [Ant Group](https://www.antgroup.com/) (<u>2024.7</u>)
+  - Working at Oceanbase Research Lab led by [Dr. Quanqing Xu](https://scholar.google.com.hk/citations?hl=en&user=MZbfc1IAAAAJ) 
 - *Research Engineer* at [Zilliz](https://zilliz.com/) (<u>2022.8 - 2023.1</u>)
   - Working at the research group led by Dr. [Xiaomeng Yi](https://scholar.google.com/citations?user=j9GZDm8AAAAJ&hl=en) for learned graph-based ANN indexes and graph indexes in streaming 
 - *BigData Engineer* at [Construct Tech](https://www.litatom.com/#/) (<u>2020.1 - 2021.1</u>)
   - Leading the data team to build the big data platform to empower intelligent analyses, recommendation, and social matches.
 
 ---
+
+
 
 # Awards
 
