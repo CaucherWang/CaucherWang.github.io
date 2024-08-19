@@ -42,6 +42,7 @@ My MBTI is INTJ.
 
 # News
 
+- *<u>2024.8</u>* 🎉🎉🎉 One new work gets accepted by PVLDB, which studies the cost estimation, hardness measure and the stress-test workload generation of querying graph-based ANN indexes.
 - *<u>2024.8</u>* 🎉🎉🎉 Our new work DumpyOS, a state-of-the-art parallel time series index on NVMe SSD, gets accepted in VLDB Journal!
 - *<u>2024.4</u>* 🎉🎉🎉 Our new work CIVET, a state-of-the-art time series subsequence matching index, gets accepted in VLDB 2024!
 - *<u>2024.3</u>* Open my [Medium Channel](https://medium.com/@caucherw). I'm sharing my comments and thoughts on the frontier of data management here. Careful read, deep thinking and active discussion (positive or negative) show respect for researchers.
@@ -52,7 +53,7 @@ My MBTI is INTJ.
 
 # Publications
 
-- **Zeyu Wang**, Qitong Wang, Xiaoxing Cheng, Peng Wang, Themis Palpanas, and Wei Wang. *$Steiner$-Hardness: A Query Hardness Measure for Graph-Based ANN Indexes*. <u>PVLDB</u> (under shepherding)
+- **Zeyu Wang**, Qitong Wang, Xiaoxing Cheng, Peng Wang, Themis Palpanas, and Wei Wang. *$Steiner$-Hardness: A Query Hardness Measure for Graph-Based ANN Indexes*. <u>PVLDB</u> (Accepted) ([code](https://github.com/CaucherWang/Steiner-hardness))
 
 ---
 
