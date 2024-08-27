@@ -53,40 +53,68 @@ My MBTI is INTJ.
 
 # Publications
 
-- **Zeyu Wang**, Qitong Wang, Xiaoxing Cheng, Peng Wang, Themis Palpanas, and Wei Wang. *$Steiner$-Hardness: A Query Hardness Measure for Graph-Based ANN Indexes*. <u>PVLDB</u> (Accepted) ([code](https://github.com/CaucherWang/Steiner-hardness))
+- **Zeyu Wang**, Qitong Wang, Xiaoxing Cheng, Peng Wang, Themis Palpanas, and Wei Wang. 
+
+  *$Steiner$-Hardness: A Query Hardness Measure for Graph-Based ANN Indexes*. 
+
+  **PVLDB** **2025** ([PDF](https://arxiv.org/pdf/2408.13899), [code](https://github.com/CaucherWang/Steiner-hardness))
 
 ---
 
-- **Zeyu Wang**, Qitong Wang, Peng Wang, Themis Palpanas, and Wei Wang. *DumpyOS: A Data-Adaptive Multi-ary Index for Scalable Data Series Similarity Search*. <u>VLDB Journal</u> (Accepted) ([code](https://github.com/DSM-fudan/DumpyOS))
+- **Zeyu Wang**, Qitong Wang, Peng Wang, Themis Palpanas, and Wei Wang. 
+
+  *DumpyOS: A Data-Adaptive Multi-ary Index for Scalable Data Series Similarity Search*. 
+
+  **The VLDB Journal**, Aug. **2024** ([PDF](https://helios2.mi.parisdescartes.fr/~themisp/publications/vldbj24-dumpyos.pdf), [code](https://github.com/DSM-fudan/DumpyOS))
 
 ---
 
-- Haoran Xiong, Hang Zhang, **Zeyu Wang**, Zhenying He, Peng Wang, and X. Sean Wang. *CIVET: Exploring Compact Index for Variable-Length Subsequence Matching on Time Series*. <u>PVLDB</u>, 17(9): 2123-2135, 2024. ( [PDF](https://www.vldb.org/pvldb/vol17/p2123-he.pdf), [code](https://github.com/hrxiong/CIVET)) 
+- Haoran Xiong, Hang Zhang, **Zeyu Wang**, Zhenying He, Peng Wang, and X. Sean Wang. 
+
+  *CIVET: Exploring Compact Index for Variable-Length Subsequence Matching on Time Series*. 
+
+  **PVLDB**, 17(9): 2123-2135, Aug. **2024**, Guangzhou, China. ([PDF](https://www.vldb.org/pvldb/vol17/p2123-he.pdf), [code](https://github.com/hrxiong/CIVET)) 
 
 
 ---
 
-- **Zeyu Wang**, Haoran Xiong, Zhenying He, Peng Wang, and Wei Wang. *Distance Comparison Operators for Approximate Nearest Neighbor Search: Exploration and Benchmark*. <u>arXiv</u> preprint arXiv:2403.13491 Mar. 2024. ([PDF](https://arxiv.org/pdf/2403.13491.pdf), [code](https://github.com/CaucherWang/Fudist))
+- **Zeyu Wang**, Haoran Xiong, Zhenying He, Peng Wang, and Wei Wang. 
+
+  *Distance Comparison Operators for Approximate Nearest Neighbor Search: Exploration and Benchmark*. 
+
+  **arXiv** preprint arXiv:2403.13491 Mar. **2024**. ([PDF](https://arxiv.org/pdf/2403.13491.pdf), [code](https://github.com/CaucherWang/Fudist))
 
 ---
 
-- **Zeyu Wang**, Zhenying He, Peng Wang, Yang Wang, and Wei Wang. *Static and Streaming Discovery of Maximal Linear Representation Between Time Series*. IEEE Transactions on Knowledge and Data Engineering (<u>TKDE</u>), vol. 36, no. 1, pp. 401-415, Jan. 2024. ([website](https://ieeexplore.ieee.org/abstract/document/10155259), [code](https://github.com/DSM-fudan/LR-miner))
+- **Zeyu Wang**, Zhenying He, Peng Wang, Yang Wang, and Wei Wang. 
+
+  *Static and Streaming Discovery of Maximal Linear Representation Between Time Series*. 
+
+  **IEEE Transactions on Knowledge and Data Engineering (TKDE)**, vol. 36, no. 1, pp. 401-415, Jan. **2024**. ([website](https://ieeexplore.ieee.org/abstract/document/10155259), [code](https://github.com/DSM-fudan/LR-miner))
 
 ---
 
-- **Zeyu Wang**, Peng Wang, Themis Palpanas, and Wei Wang. *Graph- and Tree-based Indexes for High-dimensional Vector Similarity Search: Analyses, Comparisons, and Future Directions*. <u>IEEE Data Engineering Bulletin</u> 47(3), Sep. 2023. ([PDF](http://sites.computer.org/debull/A23sept/p3.pdf))
+- **Zeyu Wang**, Peng Wang, Themis Palpanas, and Wei Wang. 
 
-<!-- <div align="center">
-<img src='/images/evo-graph.png' alt='drawing' width='500'>
-</div> -->
+  *Graph- and Tree-based Indexes for High-dimensional Vector Similarity Search: Analyses, Comparisons, and Future Directions*. 
 
----
-
-- **Zeyu Wang**, Qitong Wang, Peng Wang, Themis Palpanas, and Wei Wang. *Dumpy: A Compact and Adaptive Index for Large Data Series Collections*. Proceedings of the ACM Management of Data (PACMMOD) Journal 1(1), 2023, presented at ACM SIG International conference on Management of Data / Principles of Database Systems (<u>SIGMOD</u>/PODS), Seattle, WA, USA, June 2023. ([PDF](https://helios2.mi.parisdescartes.fr/~themisp/publications/sigmod23-dumpy.pdf), [slides](https://helios2.mi.parisdescartes.fr/~themisp/publications/sigmod23-dumpy-slides.pdf), [video](https://files.atypon.com/acm/99f6febc21ad6c5a979f504caf188d9a), [code](https://github.com/DSM-fudan/Dumpy))
+  **IEEE Data Engineering Bulletin (invited paper)** 47(3), Sep. **2023**. ([PDF](http://sites.computer.org/debull/A23sept/p3.pdf))
 
 ---
 
-- Hanbo Zhang, Peng Wang, Zicheng Fang, **Zeyu Wang**, and Wei Wang, *ELIS++: a shapelet learning approach for accurate and efficient time series classification*. World Wide Web (<u>WWWJ</u>) 24, 511–539 March 2021. ([website](https://link.springer.com/article/10.1007/s11280-020-00856-1))
+- **Zeyu Wang**, Qitong Wang, Peng Wang, Themis Palpanas, and Wei Wang. 
+
+  *Dumpy: A Compact and Adaptive Index for Large Data Series Collections*. 
+
+  Proceedings of the ACM Management of Data (PACMMOD) Journal 1(1), presented at **ACM SIG International conference on Management of Data / Principles of Database Systems (SIGMOD/PODS)**, June **2023**, Seattle, WA, USA. ([PDF](https://helios2.mi.parisdescartes.fr/~themisp/publications/sigmod23-dumpy.pdf), [slides](https://helios2.mi.parisdescartes.fr/~themisp/publications/sigmod23-dumpy-slides.pdf), [video](https://files.atypon.com/acm/99f6febc21ad6c5a979f504caf188d9a), [code](https://github.com/DSM-fudan/Dumpy))
+
+---
+
+- Hanbo Zhang, Peng Wang, Zicheng Fang, **Zeyu Wang**, and Wei Wang. 
+
+  *ELIS++: a shapelet learning approach for accurate and efficient time series classification*. 
+
+  **World Wide Web (WWWJ)** 24, 511–539 March **2021**. ([website](https://link.springer.com/article/10.1007/s11280-020-00856-1))
 
 ---
 
