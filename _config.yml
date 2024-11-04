@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Fudan University & Université Paris Cité"
   location         : "Paris, France"
-  employer         : "705G, 45 Rue des Saints-Pères, 75006 Paris"
+  employer         : "705G, 45 Rue des \n Saints-Pères, 75006 Paris"
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&user=XXGhABIAAAAJ"
   email            : "zeyuwang21@m.fudan.edu.cn"

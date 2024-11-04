@@ -42,10 +42,10 @@ My MBTI is INTJ.
 
 # News
 
+- *<u>2024.8</u>* Very pleased to meet friends Guangzhou, China to celebrate the 50th anniversary of VLDB!
 - *<u>2024.8</u>* 🎉🎉🎉 One new work gets accepted by PVLDB, which studies the cost estimation, hardness measure and the stress-test workload generation of querying graph-based ANN indexes.
 - *<u>2024.8</u>* 🎉🎉🎉 Our new work DumpyOS, a state-of-the-art parallel time series index on NVMe SSD, gets accepted in VLDB Journal!
 - *<u>2024.4</u>* 🎉🎉🎉 Our new work CIVET, a state-of-the-art time series subsequence matching index, gets accepted in VLDB 2024!
-- *<u>2024.3</u>* Open my [Medium Channel](https://medium.com/@caucherw). I'm sharing my comments and thoughts on the frontier of data management here. Careful read, deep thinking and active discussion (positive or negative) show respect for researchers.
 
 ---
 
@@ -57,7 +57,7 @@ My MBTI is INTJ.
 
   *$Steiner$-Hardness: A Query Hardness Measure for Graph-Based ANN Indexes*. 
 
-  **PVLDB** **2025** ([PDF](https://arxiv.org/pdf/2408.13899), [code](https://github.com/CaucherWang/Steiner-hardness))
+  **PVLDB**, 17(13) **2024**, will be presented in London, UK, 2025 ([PDF](https://arxiv.org/pdf/2408.13899), [code](https://github.com/CaucherWang/Steiner-hardness))
 
 ---
 
@@ -80,9 +80,9 @@ My MBTI is INTJ.
 
 - **Zeyu Wang**, Haoran Xiong, Zhenying He, Peng Wang, and Wei Wang. 
 
-  *Distance Comparison Operators for Approximate Nearest Neighbor Search: Exploration and Benchmark*. 
+  *Dimensionality-Reduction Techniques for Approximate Nearest Neighbor Search: A Survey and Evaluation*. 
 
-  **arXiv** preprint arXiv:2403.13491 Mar. **2024**. ([PDF](https://arxiv.org/pdf/2403.13491.pdf), [code](https://github.com/CaucherWang/Fudist))
+  **IEEE Data Engineering Bulletin (invited paper)** 48(3), Sep. **2024**. ([PDF](https://arxiv.org/pdf/2403.13491.pdf), [code](https://github.com/CaucherWang/Fudist), to appear)
 
 ---
 
@@ -141,8 +141,8 @@ My MBTI is INTJ.
 
 ## Interns
 
-- *Research and Development* at [Baidu](https://www.baidu.com/) (<u>2024.7 - Now</u>)
-  - Working on Baidu Search Engine, for trillion-scale web data similarity search.
+- *Research and Development* at [Baidu](https://www.baidu.com/) (<u>2024.7 - 2024.11</u>)
+  - Working on the content relation team of Chinese largest search engine Baidu, and optimizing the similarity search engine [Puck](https://github.com/baidu/puck)
 - *Researcher* at [Ant Group](https://www.antgroup.com/) (<u>2024.7</u>)
   - Working at Oceanbase Research Lab led by [Dr. Quanqing Xu](https://scholar.google.com.hk/citations?hl=en&user=MZbfc1IAAAAJ) 
 - *Research Engineer* at [Zilliz](https://zilliz.com/) (<u>2022.8 - 2023.1</u>)
