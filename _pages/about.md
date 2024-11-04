@@ -42,7 +42,7 @@ My MBTI is INTJ.
 
 # News
 
-- *<u>2024.8</u>* Very pleased to meet friends Guangzhou, China to celebrate the 50th anniversary of VLDB!
+- *<u>2024.8</u>* 😄 Very glad to celebrate the 50th anniversary of VLDB in Guangzhou, China with friends in database area!
 - *<u>2024.8</u>* 🎉🎉🎉 One new work gets accepted by PVLDB, which studies the cost estimation, hardness measure and the stress-test workload generation of querying graph-based ANN indexes.
 - *<u>2024.8</u>* 🎉🎉🎉 Our new work DumpyOS, a state-of-the-art parallel time series index on NVMe SSD, gets accepted in VLDB Journal!
 - *<u>2024.4</u>* 🎉🎉🎉 Our new work CIVET, a state-of-the-art time series subsequence matching index, gets accepted in VLDB 2024!
